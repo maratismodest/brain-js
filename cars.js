@@ -45,7 +45,7 @@ const generateCars = (num) => {
     return cars;
 };
 
-const count = 10
+const count = 1000
 const cars = generateCars(count);
 
 fs.writeFileSync('cars.json', JSON.stringify(cars, null, 2), 'utf-8');
@@ -53,5 +53,6 @@ console.log(count + ' cars have been generated and saved to cars.json');
 
 module.exports = {
     models,
+    years,
     getRandomElement
 }

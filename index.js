@@ -1,6 +1,7 @@
 const brain = require('./brain-js');
 const data = require('./cars.json')
-const {models,getRandomElement} = require('./cars.js')
+const {models, getRandomElement, years} = require('./cars.js')
+
 // provide optional config object (or undefined). Defaults shown.
 const config = {
     // binaryThresh: 0.5,
@@ -13,10 +14,11 @@ const net = new brain.NeuralNetwork(config);
 net.train(data)
 
 const model = getRandomElement(models)
+const year = getRandomElement(years)
 
 const car = {
     model: model.value,
-    year: 0.21,
+    year: year,
     condition: 0.875
 }
 

@@ -1,102 +1,10002 @@
 [
   {
     "input": {
-      "model": 0.9,
-      "year": 0.15,
-      "condition": 0.5703362423553995
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.6107982194689694
     },
     "output": {
-      "price": 0.350222
+      "price": 0.318135
     }
   },
   {
     "input": {
-      "model": 0.9,
-      "year": 0.15,
-      "condition": 0.6319570789470974
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.9561667963710723
     },
     "output": {
-      "price": 0.392415
-    }
-  },
-  {
-    "input": {
-      "model": 0.7,
-      "year": 0.15,
-      "condition": 0.9646553921338576
-    },
-    "output": {
-      "price": 0.442712
+      "price": 0.508373
     }
   },
   {
     "input": {
       "model": 0.6,
-      "year": 0.24,
-      "condition": 0.5533851579905067
+      "year": 0.2,
+      "condition": 0.8233909669961836
     },
     "output": {
-      "price": 0.281076
+      "price": 0.373286
     }
   },
   {
     "input": {
       "model": 0.9,
-      "year": 0.12,
-      "condition": 0.3070018589447858
+      "year": 0.13,
+      "condition": 0.4975461503644829
     },
     "output": {
-      "price": 0.205042
+      "price": 0.273448
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.9320998394425754
+    },
+    "output": {
+      "price": 0.652202
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.902988523428688
+    },
+    "output": {
+      "price": 0.564191
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.5105409450014202
+    },
+    "output": {
+      "price": 0.348235
     }
   },
   {
     "input": {
       "model": 0.7,
-      "year": 0.23,
-      "condition": 0.2546801554777772
+      "year": 0.14,
+      "condition": 0.36239959484830164
     },
     "output": {
-      "price": 0.15568
+      "price": 0.184265
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.980062617358267
+    },
+    "output": {
+      "price": 0.563242
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.43743474349973954
+    },
+    "output": {
+      "price": 0.246933
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.6387660633641443
+    },
+    "output": {
+      "price": 0.36031
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.14,
+      "condition": 0.8659051760068281
+    },
+    "output": {
+      "price": 0.392963
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.7659004656203446
+    },
+    "output": {
+      "price": 0.326087
     }
   },
   {
     "input": {
       "model": 0.9,
       "year": 0.1,
-      "condition": 0.9219989729447017
+      "condition": 0.6444107066548823
     },
     "output": {
-      "price": 0.460171
+      "price": 0.363008
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.6576161693749963
+    },
+    "output": {
+      "price": 0.407
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.9715003888606951
+    },
+    "output": {
+      "price": 0.48
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.6920182533888495
+    },
+    "output": {
+      "price": 0.343088
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.8708412575344164
+    },
+    "output": {
+      "price": 0.390718
     }
   },
   {
     "input": {
       "model": 0.9,
       "year": 0.21,
-      "condition": 0.7615980459562731
+      "condition": 0.8576607305393555
     },
     "output": {
-      "price": 0.518114
+      "price": 0.605629
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.8111891176285915
+    },
+    "output": {
+      "price": 0.510829
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.9890093589503521
+    },
+    "output": {
+      "price": 0.560181
     }
   },
   {
     "input": {
       "model": 0.6,
-      "year": 0.23,
-      "condition": 0.9059378622310328
+      "year": 0.22,
+      "condition": 0.9691858169213128
     },
     "output": {
-      "price": 0.44912
+      "price": 0.465762
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.46932084861361123
+    },
+    "output": {
+      "price": 0.360951
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.7411748623822783
+    },
+    "output": {
+      "price": 0.408803
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.5776842076809084
+    },
+    "output": {
+      "price": 0.313017
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.865905454924025
+    },
+    "output": {
+      "price": 0.407473
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.9279454155677004
+    },
+    "output": {
+      "price": 0.513296
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.6894479232666246
+    },
+    "output": {
+      "price": 0.410332
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.7553327917268167
+    },
+    "output": {
+      "price": 0.346732
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.7844510920346752
+    },
+    "output": {
+      "price": 0.570456
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.6501499436943687
+    },
+    "output": {
+      "price": 0.256389
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.9482900655938142
+    },
+    "output": {
+      "price": 0.525211
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.8158615273380599
+    },
+    "output": {
+      "price": 0.488616
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.14,
+      "condition": 0.9494603065471411
+    },
+    "output": {
+      "price": 0.436017
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.42847969384933005
+    },
+    "output": {
+      "price": 0.21616
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.7660609410951678
+    },
+    "output": {
+      "price": 0.333429
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.7947678670718182
+    },
+    "output": {
+      "price": 0.299052
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.6755198026628686
+    },
+    "output": {
+      "price": 0.286546
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.9782519374701076
+    },
+    "output": {
+      "price": 0.677502
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.7925228984308641
+    },
+    "output": {
+      "price": 0.389992
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.8949667121905676
+    },
+    "output": {
+      "price": 0.460933
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.5761048892908983
+    },
+    "output": {
+      "price": 0.394287
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9825482022763462
+    },
+    "output": {
+      "price": 0.397751
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.8719801063636097
+    },
+    "output": {
+      "price": 0.351227
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.3586104549128599
+    },
+    "output": {
+      "price": 0.231521
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.9559232511449615
+    },
+    "output": {
+      "price": 0.667882
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.6018604410464338
+    },
+    "output": {
+      "price": 0.31064
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.9605764784662815
+    },
+    "output": {
+      "price": 0.333919
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.9548312951399024
+    },
+    "output": {
+      "price": 0.489315
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.9897877037290324
+    },
+    "output": {
+      "price": 0.465087
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.9115054318850536
+    },
+    "output": {
+      "price": 0.405494
     }
   },
   {
     "input": {
       "model": 0.6,
       "year": 0.1,
-      "condition": 0.8699551426080224
+      "condition": 0.8740636628848223
     },
     "output": {
-      "price": 0.309255
+      "price": 0.299834
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.6937950564355753
+    },
+    "output": {
+      "price": 0.409695
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.7083917740762418
+    },
+    "output": {
+      "price": 0.312649
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.11986772975197846
+    },
+    "output": {
+      "price": 0.056719
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.38370445163036004
+    },
+    "output": {
+      "price": 0.155804
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.6637584123830381
+    },
+    "output": {
+      "price": 0.361953
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.919552006443862
+    },
+    "output": {
+      "price": 0.489448
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.9313062582390554
+    },
+    "output": {
+      "price": 0.576581
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.8965874512507748
+    },
+    "output": {
+      "price": 0.570945
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.3672645348458068
+    },
+    "output": {
+      "price": 0.183437
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.7017504586753851
+    },
+    "output": {
+      "price": 0.321687
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.9684069632334835
+    },
+    "output": {
+      "price": 0.595054
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.855975876261908
+    },
+    "output": {
+      "price": 0.41243
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.8419648640098546
+    },
+    "output": {
+      "price": 0.453001
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.574909446180371
+    },
+    "output": {
+      "price": 0.411771
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.5705193311672796
+    },
+    "output": {
+      "price": 0.308593
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.3804722029704727
+    },
+    "output": {
+      "price": 0.221238
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.7640004122968225
+    },
+    "output": {
+      "price": 0.317353
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.881897668340553
+    },
+    "output": {
+      "price": 0.439512
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.9729849866820179
+    },
+    "output": {
+      "price": 0.675177
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.73295964492283
+    },
+    "output": {
+      "price": 0.492873
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.8471542604315703
+    },
+    "output": {
+      "price": 0.632747
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.8817390382388599
+    },
+    "output": {
+      "price": 0.436068
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.46661015953161555
+    },
+    "output": {
+      "price": 0.261182
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.6030076126120889
+    },
+    "output": {
+      "price": 0.233414
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.9258809539707377
+    },
+    "output": {
+      "price": 0.417411
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.5241064130269922
+    },
+    "output": {
+      "price": 0.36701
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.9887893204664658
+    },
+    "output": {
+      "price": 0.42311
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.9918655681652278
+    },
+    "output": {
+      "price": 0.506794
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.9955562212520672
+    },
+    "output": {
+      "price": 0.665361
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.6664572831264151
+    },
+    "output": {
+      "price": 0.356331
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.8770851411603225
+    },
+    "output": {
+      "price": 0.640915
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.9349645211226232
+    },
+    "output": {
+      "price": 0.381095
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.5372331134660848
+    },
+    "output": {
+      "price": 0.275673
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.5714916338716365
+    },
+    "output": {
+      "price": 0.236978
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.8590283788971059
+    },
+    "output": {
+      "price": 0.357546
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.3769328025745622
+    },
+    "output": {
+      "price": 0.166192
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.9122765360550322
+    },
+    "output": {
+      "price": 0.652078
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.9593616931671517
+    },
+    "output": {
+      "price": 0.383411
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.5308911621082033
+    },
+    "output": {
+      "price": 0.205938
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.4968130299872201
+    },
+    "output": {
+      "price": 0.197143
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.14261870816607225
+    },
+    "output": {
+      "price": 0.10323
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.8612979983281016
+    },
+    "output": {
+      "price": 0.420539
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.8746191962357491
+    },
+    "output": {
+      "price": 0.441102
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.998178359297513
+    },
+    "output": {
+      "price": 0.721237
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.716573739612107
+    },
+    "output": {
+      "price": 0.516967
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.9581507948533957
+    },
+    "output": {
+      "price": 0.356499
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9899582027694646
+    },
+    "output": {
+      "price": 0.406375
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.49162892449444184
+    },
+    "output": {
+      "price": 0.350043
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.922341661706373
+    },
+    "output": {
+      "price": 0.417947
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.6386442303076467
+    },
+    "output": {
+      "price": 0.472875
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.8214888958441651
+    },
+    "output": {
+      "price": 0.359014
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.765404725259916
+    },
+    "output": {
+      "price": 0.533844
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.26013741649228495
+    },
+    "output": {
+      "price": 0.118633
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.436236474475033
+    },
+    "output": {
+      "price": 0.24816
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.9806401555848318
+    },
+    "output": {
+      "price": 0.612679
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.9445190306034056
+    },
+    "output": {
+      "price": 0.536732
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.983420213706129
+    },
+    "output": {
+      "price": 0.568644
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.9996341596239267
+    },
+    "output": {
+      "price": 0.563422
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.5095297279034267
+    },
+    "output": {
+      "price": 0.233735
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.6189784451208549
+    },
+    "output": {
+      "price": 0.330796
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.3190435532160405
+    },
+    "output": {
+      "price": 0.190066
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.9088443137728721
+    },
+    "output": {
+      "price": 0.56568
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.42653514998890163
+    },
+    "output": {
+      "price": 0.239441
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.9138589680663196
+    },
+    "output": {
+      "price": 0.469436
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.932522921944884
+    },
+    "output": {
+      "price": 0.526992
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.9983661808149553
+    },
+    "output": {
+      "price": 0.593442
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.6764564376651572
+    },
+    "output": {
+      "price": 0.417188
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.8914645740315261
+    },
+    "output": {
+      "price": 0.309614
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.6334500878521832
+    },
+    "output": {
+      "price": 0.39326
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.5169271688592778
+    },
+    "output": {
+      "price": 0.363062
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.9973711172530104
+    },
+    "output": {
+      "price": 0.472132
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.8989783238435967
+    },
+    "output": {
+      "price": 0.375859
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.9927506464603988
+    },
+    "output": {
+      "price": 0.402843
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.47571848968902963
+    },
+    "output": {
+      "price": 0.22942
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.9941278556233728
+    },
+    "output": {
+      "price": 0.392136
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9835235190327701
+    },
+    "output": {
+      "price": 0.376483
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.9712840182921574
+    },
+    "output": {
+      "price": 0.485002
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.6147080026148334
+    },
+    "output": {
+      "price": 0.362327
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.9224172339681505
+    },
+    "output": {
+      "price": 0.487108
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.7014997639598122
+    },
+    "output": {
+      "price": 0.36427
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.5852853584104789
+    },
+    "output": {
+      "price": 0.282095
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.7678124817662534
+    },
+    "output": {
+      "price": 0.398155
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.9429202517284802
+    },
+    "output": {
+      "price": 0.423463
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.9224184402806247
+    },
+    "output": {
+      "price": 0.510214
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.30967520969451745
+    },
+    "output": {
+      "price": 0.196269
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.2103350009564161
+    },
+    "output": {
+      "price": 0.161937
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.618023286129818
+    },
+    "output": {
+      "price": 0.385367
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.5698866521704253
+    },
+    "output": {
+      "price": 0.389939
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.9202521795259637
+    },
+    "output": {
+      "price": 0.446666
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.762835833049373
+    },
+    "output": {
+      "price": 0.316001
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.9549570723809092
+    },
+    "output": {
+      "price": 0.537237
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.9846668663876004
+    },
+    "output": {
+      "price": 0.505207
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.987533016866541
+    },
+    "output": {
+      "price": 0.52315
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.8584777932036456
+    },
+    "output": {
+      "price": 0.448911
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.4000388774989293
+    },
+    "output": {
+      "price": 0.225737
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.3616646182164257
+    },
+    "output": {
+      "price": 0.198512
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.8102777344828114
+    },
+    "output": {
+      "price": 0.434391
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.6806346930902616
+    },
+    "output": {
+      "price": 0.432067
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.9108254377859102
+    },
+    "output": {
+      "price": 0.587131
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.8569543209791517
+    },
+    "output": {
+      "price": 0.516542
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.6921155671935263
+    },
+    "output": {
+      "price": 0.335214
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.9801877634635228
+    },
+    "output": {
+      "price": 0.41463
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.8634406520371808
+    },
+    "output": {
+      "price": 0.588521
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.9331630533191703
+    },
+    "output": {
+      "price": 0.513389
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.8642381779116328
+    },
+    "output": {
+      "price": 0.569679
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.5799857991454743
+    },
+    "output": {
+      "price": 0.356467
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.9579733745597391
+    },
+    "output": {
+      "price": 0.497239
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.9028866822044442
+    },
+    "output": {
+      "price": 0.516622
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.4656987075457838
+    },
+    "output": {
+      "price": 0.204487
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.4672060556207165
+    },
+    "output": {
+      "price": 0.252034
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.990477591078738
+    },
+    "output": {
+      "price": 0.637095
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.9958331271464761
+    },
+    "output": {
+      "price": 0.44848
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.3925266535122012
+    },
+    "output": {
+      "price": 0.182585
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.971042635396233
+    },
+    "output": {
+      "price": 0.45514
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.888638410095091
+    },
+    "output": {
+      "price": 0.500396
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.9755498758364409
+    },
+    "output": {
+      "price": 0.552923
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.8578031610017344
+    },
+    "output": {
+      "price": 0.453386
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.7601220663723486
+    },
+    "output": {
+      "price": 0.526359
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.3588574648428636
+    },
+    "output": {
+      "price": 0.226017
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.27073301134799443
+    },
+    "output": {
+      "price": 0.182443
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.6803181817060104
+    },
+    "output": {
+      "price": 0.444574
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.8517186845070388
+    },
+    "output": {
+      "price": 0.414944
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.9482320821751965
+    },
+    "output": {
+      "price": 0.450252
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.9134538772662779
+    },
+    "output": {
+      "price": 0.569785
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.8432143917930581
+    },
+    "output": {
+      "price": 0.522052
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.5430154229232415
+    },
+    "output": {
+      "price": 0.30653
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.7480240897406508
+    },
+    "output": {
+      "price": 0.294175
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.7549290376872708
+    },
+    "output": {
+      "price": 0.448487
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.6161458064217302
+    },
+    "output": {
+      "price": 0.406111
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.969426604258774
+    },
+    "output": {
+      "price": 0.383024
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.6909728583443494
+    },
+    "output": {
+      "price": 0.343071
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.924658118773577
+    },
+    "output": {
+      "price": 0.500604
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.6259701692290108
+    },
+    "output": {
+      "price": 0.45039
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.8233585769856183
+    },
+    "output": {
+      "price": 0.425126
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.47379197041841703
+    },
+    "output": {
+      "price": 0.185683
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.5946079516618786
+    },
+    "output": {
+      "price": 0.244192
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.3986985212643608
+    },
+    "output": {
+      "price": 0.225343
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.54348608233092
+    },
+    "output": {
+      "price": 0.294961
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.5433720779945519
+    },
+    "output": {
+      "price": 0.314529
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.5016080829158702
+    },
+    "output": {
+      "price": 0.291145
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.7724548463456601
+    },
+    "output": {
+      "price": 0.336155
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.14,
+      "condition": 0.9955863869290045
+    },
+    "output": {
+      "price": 0.442716
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.46288834377816923
+    },
+    "output": {
+      "price": 0.183738
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.869855476071039
+    },
+    "output": {
+      "price": 0.373671
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.8513204579610206
+    },
+    "output": {
+      "price": 0.467831
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.7905544546225505
+    },
+    "output": {
+      "price": 0.372741
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.9536720586242284
+    },
+    "output": {
+      "price": 0.391851
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.9879988074486581
+    },
+    "output": {
+      "price": 0.498456
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.8683196346180547
+    },
+    "output": {
+      "price": 0.448476
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.5815321501725954
+    },
+    "output": {
+      "price": 0.267592
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.6390060745547381
+    },
+    "output": {
+      "price": 0.287887
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.845548835855765
+    },
+    "output": {
+      "price": 0.347946
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.23240797780714473
+    },
+    "output": {
+      "price": 0.165102
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.3589987927184838
+    },
+    "output": {
+      "price": 0.208414
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.6703424521499989
+    },
+    "output": {
+      "price": 0.308543
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9006992269700996
+    },
+    "output": {
+      "price": 0.37506
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.8421680976239834
+    },
+    "output": {
+      "price": 0.3115
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.6872277013904022
+    },
+    "output": {
+      "price": 0.380415
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.5530297539851452
+    },
+    "output": {
+      "price": 0.255739
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.8509629062990514
+    },
+    "output": {
+      "price": 0.392312
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.7766180930563737
+    },
+    "output": {
+      "price": 0.344011
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.964510066726717
+    },
+    "output": {
+      "price": 0.426844
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.9894299781568822
+    },
+    "output": {
+      "price": 0.504777
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.3773605351440805
+    },
+    "output": {
+      "price": 0.216208
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.9467439652279198
+    },
+    "output": {
+      "price": 0.556201
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.9488058643394658
+    },
+    "output": {
+      "price": 0.529672
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.8617889005799917
+    },
+    "output": {
+      "price": 0.405529
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.7023518952060253
+    },
+    "output": {
+      "price": 0.457153
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.9948789981164784
+    },
+    "output": {
+      "price": 0.545055
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.7125959648717963
+    },
+    "output": {
+      "price": 0.50927
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.8762129276303336
+    },
+    "output": {
+      "price": 0.435369
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.9431064387598934
+    },
+    "output": {
+      "price": 0.44428
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.9500330672016831
+    },
+    "output": {
+      "price": 0.480636
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.5597603376422633
+    },
+    "output": {
+      "price": 0.317951
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.9569418343707893
+    },
+    "output": {
+      "price": 0.461729
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.2763170914878865
+    },
+    "output": {
+      "price": 0.206747
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.910981778298817
+    },
+    "output": {
+      "price": 0.32177
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.8628550489779943
+    },
+    "output": {
+      "price": 0.491501
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9839854509378714
+    },
+    "output": {
+      "price": 0.380799
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.34796283506477377
+    },
+    "output": {
+      "price": 0.186494
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.7479297258871924
+    },
+    "output": {
+      "price": 0.332272
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.8101156336137184
+    },
+    "output": {
+      "price": 0.44599
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.6910839671484859
+    },
+    "output": {
+      "price": 0.509932
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.7049988553392228
+    },
+    "output": {
+      "price": 0.431296
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.36666310004030167
+    },
+    "output": {
+      "price": 0.20062
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.9736138337332564
+    },
+    "output": {
+      "price": 0.477548
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.4419672179887165
+    },
+    "output": {
+      "price": 0.269881
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.9861478100393827
+    },
+    "output": {
+      "price": 0.554345
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.9612298724604627
+    },
+    "output": {
+      "price": 0.614535
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.8959954909369888
+    },
+    "output": {
+      "price": 0.390695
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.6753635527318078
+    },
+    "output": {
+      "price": 0.33957
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9251242656667297
+    },
+    "output": {
+      "price": 0.379608
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.8428782436367894
+    },
+    "output": {
+      "price": 0.514778
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.7236392708397755
+    },
+    "output": {
+      "price": 0.367687
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.9717503257975094
+    },
+    "output": {
+      "price": 0.468415
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.8231343906196256
+    },
+    "output": {
+      "price": 0.572129
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.09716898527149653
+    },
+    "output": {
+      "price": 0.071627
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.9913154807440084
+    },
+    "output": {
+      "price": 0.643816
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.9402293959145025
+    },
+    "output": {
+      "price": 0.409237
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.9996565905260355
+    },
+    "output": {
+      "price": 0.629988
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.9549251255268785
+    },
+    "output": {
+      "price": 0.421787
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.170757511780383
+    },
+    "output": {
+      "price": 0.086205
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.43049642447207004
+    },
+    "output": {
+      "price": 0.162493
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.931873811503894
+    },
+    "output": {
+      "price": 0.459579
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.5719305319687161
+    },
+    "output": {
+      "price": 0.379666
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.392177533931482
+    },
+    "output": {
+      "price": 0.193521
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.47217759283090854
+    },
+    "output": {
+      "price": 0.221995
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.9749550879050675
+    },
+    "output": {
+      "price": 0.448324
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.7395165120617417
+    },
+    "output": {
+      "price": 0.415051
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.22708010471989437
+    },
+    "output": {
+      "price": 0.093601
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.9588086270709171
+    },
+    "output": {
+      "price": 0.423631
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9615738844560071
+    },
+    "output": {
+      "price": 0.403625
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.9709935837157505
+    },
+    "output": {
+      "price": 0.560441
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.9351084228888047
+    },
+    "output": {
+      "price": 0.662455
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.991061010819888
+    },
+    "output": {
+      "price": 0.389309
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.715038421808371
+    },
+    "output": {
+      "price": 0.325572
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.4849268390339486
+    },
+    "output": {
+      "price": 0.26215
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.6556837472543879
+    },
+    "output": {
+      "price": 0.409126
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.5870400996076857
+    },
+    "output": {
+      "price": 0.417045
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.8430992904734653
+    },
+    "output": {
+      "price": 0.409938
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.9210660858117248
+    },
+    "output": {
+      "price": 0.339833
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9696406757725783
+    },
+    "output": {
+      "price": 0.390509
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.9503372888747028
+    },
+    "output": {
+      "price": 0.443303
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.6943609117028409
+    },
+    "output": {
+      "price": 0.468639
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.3868009003434111
+    },
+    "output": {
+      "price": 0.213814
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.5956328476014429
+    },
+    "output": {
+      "price": 0.264694
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.6090078538881203
+    },
+    "output": {
+      "price": 0.413977
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.6893005135844317
+    },
+    "output": {
+      "price": 0.406702
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.8373015667324887
+    },
+    "output": {
+      "price": 0.361186
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.6644685943340967
+    },
+    "output": {
+      "price": 0.292226
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.997329133808566
+    },
+    "output": {
+      "price": 0.466823
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.8774190303240035
+    },
+    "output": {
+      "price": 0.335875
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.869473120738645
+    },
+    "output": {
+      "price": 0.427549
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.9800435371713379
+    },
+    "output": {
+      "price": 0.426585
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.998497240023429
+    },
+    "output": {
+      "price": 0.414719
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.9712058336547563
+    },
+    "output": {
+      "price": 0.629407
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.9363996274643399
+    },
+    "output": {
+      "price": 0.430492
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.9603704411731138
+    },
+    "output": {
+      "price": 0.46508
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.8362240394987261
+    },
+    "output": {
+      "price": 0.444673
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.9243890201824125
+    },
+    "output": {
+      "price": 0.351255
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.47308236747114196
+    },
+    "output": {
+      "price": 0.334541
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.8278524366170431
+    },
+    "output": {
+      "price": 0.412386
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.32554800652638927
+    },
+    "output": {
+      "price": 0.22688
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.9282368934049348
+    },
+    "output": {
+      "price": 0.487397
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.09245558658302577
+    },
+    "output": {
+      "price": 0.041798
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.515979424696095
+    },
+    "output": {
+      "price": 0.21347
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.9921479153114956
+    },
+    "output": {
+      "price": 0.483203
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.995874505157612
+    },
+    "output": {
+      "price": 0.586521
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.3459437609859909
+    },
+    "output": {
+      "price": 0.162804
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.9832644763421796
+    },
+    "output": {
+      "price": 0.440345
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.9830186154237985
+    },
+    "output": {
+      "price": 0.571057
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.9190124369222632
+    },
+    "output": {
+      "price": 0.566831
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.5855621677836784
+    },
+    "output": {
+      "price": 0.314065
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.9875918265978606
+    },
+    "output": {
+      "price": 0.514077
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.4838384785083617
+    },
+    "output": {
+      "price": 0.262471
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.6186557616435456
+    },
+    "output": {
+      "price": 0.295781
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.7853935656755165
+    },
+    "output": {
+      "price": 0.342095
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.6329119897978435
+    },
+    "output": {
+      "price": 0.241375
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.8773678742883715
+    },
+    "output": {
+      "price": 0.573433
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.986099153627747
+    },
+    "output": {
+      "price": 0.566407
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.3640587157358549
+    },
+    "output": {
+      "price": 0.205637
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.9014659209387911
+    },
+    "output": {
+      "price": 0.380028
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.9947429500322279
+    },
+    "output": {
+      "price": 0.597422
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.9720496360220353
+    },
+    "output": {
+      "price": 0.565007
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.5125735670813353
+    },
+    "output": {
+      "price": 0.282691
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.9759304741607542
+    },
+    "output": {
+      "price": 0.481944
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.9771124246801371
+    },
+    "output": {
+      "price": 0.537759
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.5621697127709426
+    },
+    "output": {
+      "price": 0.388867
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.22508136145044066
+    },
+    "output": {
+      "price": 0.150226
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.5892020197002381
+    },
+    "output": {
+      "price": 0.377646
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.14,
+      "condition": 0.7546604738498469
+    },
+    "output": {
+      "price": 0.330736
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.3411065065834863
+    },
+    "output": {
+      "price": 0.200085
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.7956344190434416
+    },
+    "output": {
+      "price": 0.472343
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.13064405515094435
+    },
+    "output": {
+      "price": 0.06282
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.9731412389880562
+    },
+    "output": {
+      "price": 0.707455
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.9767747432779472
+    },
+    "output": {
+      "price": 0.519991
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.648536697137872
+    },
+    "output": {
+      "price": 0.33378
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.90278352859463
+    },
+    "output": {
+      "price": 0.462603
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.8674252235779623
+    },
+    "output": {
+      "price": 0.412391
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.900382133967868
+    },
+    "output": {
+      "price": 0.386657
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.37571236513576955
+    },
+    "output": {
+      "price": 0.165772
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.9122254768400236
+    },
+    "output": {
+      "price": 0.418735
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.6637542440091366
+    },
+    "output": {
+      "price": 0.362469
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.8216248007511645
+    },
+    "output": {
+      "price": 0.38715
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.9025050381723754
+    },
+    "output": {
+      "price": 0.333384
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.6305031527920053
+    },
+    "output": {
+      "price": 0.280508
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.6599646936653443
+    },
+    "output": {
+      "price": 0.438426
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.9282733778994409
+    },
+    "output": {
+      "price": 0.381723
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.9562661540080305
+    },
+    "output": {
+      "price": 0.37971
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.6651502194905751
+    },
+    "output": {
+      "price": 0.3458
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.6812479266549922
+    },
+    "output": {
+      "price": 0.501206
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.789867562404569
+    },
+    "output": {
+      "price": 0.337653
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.4152986848415595
+    },
+    "output": {
+      "price": 0.195812
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.8307713600395281
+    },
+    "output": {
+      "price": 0.35663
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.8969692030332325
+    },
+    "output": {
+      "price": 0.498405
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.9567138662990734
+    },
+    "output": {
+      "price": 0.511574
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.45844579074976977
+    },
+    "output": {
+      "price": 0.218499
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.8634102825196405
+    },
+    "output": {
+      "price": 0.554475
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.44453776089559693
+    },
+    "output": {
+      "price": 0.258873
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.9633051052934024
+    },
+    "output": {
+      "price": 0.519626
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.9793771259055511
+    },
+    "output": {
+      "price": 0.464285
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.46748805367989943
+    },
+    "output": {
+      "price": 0.315444
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.6007719625848427
+    },
+    "output": {
+      "price": 0.245798
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.6626087259205234
+    },
+    "output": {
+      "price": 0.475299
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.7781867290066593
+    },
+    "output": {
+      "price": 0.399854
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.8886982074558932
+    },
+    "output": {
+      "price": 0.294898
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.34797377312145616
+    },
+    "output": {
+      "price": 0.24668
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.9671635071132749
+    },
+    "output": {
+      "price": 0.414816
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.8998431160722349
+    },
+    "output": {
+      "price": 0.669314
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.46759187232642463
+    },
+    "output": {
+      "price": 0.35466
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.5944658598032766
+    },
+    "output": {
+      "price": 0.305594
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.8003393684006705
+    },
+    "output": {
+      "price": 0.543016
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.8703487289205711
+    },
+    "output": {
+      "price": 0.513121
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.9248901454032854
+    },
+    "output": {
+      "price": 0.467086
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.7833234161821931
+    },
+    "output": {
+      "price": 0.387926
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.2820324928196368
+    },
+    "output": {
+      "price": 0.221748
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.9409296919835072
+    },
+    "output": {
+      "price": 0.396809
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.9419729697108882
+    },
+    "output": {
+      "price": 0.593913
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.40058663609185496
+    },
+    "output": {
+      "price": 0.210892
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.6081732820626862
+    },
+    "output": {
+      "price": 0.270916
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.7381074822204353
+    },
+    "output": {
+      "price": 0.348974
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.5973121989049599
+    },
+    "output": {
+      "price": 0.388355
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.8748950392404036
+    },
+    "output": {
+      "price": 0.610019
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.8083916175565535
+    },
+    "output": {
+      "price": 0.418054
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.5472589010719415
+    },
+    "output": {
+      "price": 0.35668
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.894862756394336
+    },
+    "output": {
+      "price": 0.512496
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.8570703395361712
+    },
+    "output": {
+      "price": 0.41315
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.6732103252985426
+    },
+    "output": {
+      "price": 0.38733
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.9810514447059532
+    },
+    "output": {
+      "price": 0.410132
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.7652095551567307
+    },
+    "output": {
+      "price": 0.492585
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.7385518305743012
+    },
+    "output": {
+      "price": 0.491979
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.6741788544418482
+    },
+    "output": {
+      "price": 0.459337
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.14,
+      "condition": 0.9733542538707403
+    },
+    "output": {
+      "price": 0.422162
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.9901815726742824
+    },
+    "output": {
+      "price": 0.382694
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.8386062654473847
+    },
+    "output": {
+      "price": 0.435874
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.9751824975518077
+    },
+    "output": {
+      "price": 0.407599
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.4400704492176595
+    },
+    "output": {
+      "price": 0.293478
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9553632606422195
+    },
+    "output": {
+      "price": 0.39689
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.7073874529659282
+    },
+    "output": {
+      "price": 0.40816
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.8183797136540009
+    },
+    "output": {
+      "price": 0.557656
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.313586463465897
+    },
+    "output": {
+      "price": 0.21755
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.9987415468451815
+    },
+    "output": {
+      "price": 0.683095
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.9058068935780397
+    },
+    "output": {
+      "price": 0.619913
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.7466003135518904
+    },
+    "output": {
+      "price": 0.337065
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.7965419580650881
+    },
+    "output": {
+      "price": 0.50657
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.9549583664136356
+    },
+    "output": {
+      "price": 0.592539
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.9590587123055246
+    },
+    "output": {
+      "price": 0.418036
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.8697762713722684
+    },
+    "output": {
+      "price": 0.521409
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.8503178574369997
+    },
+    "output": {
+      "price": 0.499584
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.7012055839360432
+    },
+    "output": {
+      "price": 0.298978
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.6854890267379181
+    },
+    "output": {
+      "price": 0.372164
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.6719839614320889
+    },
+    "output": {
+      "price": 0.379019
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.999109766901761
+    },
+    "output": {
+      "price": 0.552135
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.40073107049370005
+    },
+    "output": {
+      "price": 0.204396
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.9283353740436261
+    },
+    "output": {
+      "price": 0.406213
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.9830229895048234
+    },
+    "output": {
+      "price": 0.431142
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.6612514914961538
+    },
+    "output": {
+      "price": 0.335635
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.7733866515993312
+    },
+    "output": {
+      "price": 0.44486
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.785637734730761
+    },
+    "output": {
+      "price": 0.419116
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.43739146622818814
+    },
+    "output": {
+      "price": 0.224349
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.9627339966834597
+    },
+    "output": {
+      "price": 0.598976
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.840550421792762
+    },
+    "output": {
+      "price": 0.435025
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.8666884160426718
+    },
+    "output": {
+      "price": 0.490384
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.8989924653254262
+    },
+    "output": {
+      "price": 0.389175
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.6804703880854981
+    },
+    "output": {
+      "price": 0.421047
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.9361075409353933
+    },
+    "output": {
+      "price": 0.559265
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.13773907326770762
+    },
+    "output": {
+      "price": 0.08715
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.8481950613128728
+    },
+    "output": {
+      "price": 0.333894
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.9333136049886303
+    },
+    "output": {
+      "price": 0.549908
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.9990222678283832
+    },
+    "output": {
+      "price": 0.426628
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.7274970284759339
+    },
+    "output": {
+      "price": 0.28147
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.7386285303918895
+    },
+    "output": {
+      "price": 0.353377
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.9809924449517279
+    },
+    "output": {
+      "price": 0.575511
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.7697850239865495
+    },
+    "output": {
+      "price": 0.482627
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.7907123070144483
+    },
+    "output": {
+      "price": 0.454616
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.9039280090738016
+    },
+    "output": {
+      "price": 0.390973
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.9180031550778079
+    },
+    "output": {
+      "price": 0.50536
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.8525138212271486
+    },
+    "output": {
+      "price": 0.432071
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.8165861109886099
+    },
+    "output": {
+      "price": 0.425315
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.5853461023073474
+    },
+    "output": {
+      "price": 0.363293
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.5643284175727379
+    },
+    "output": {
+      "price": 0.29643
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.07899270195874752
+    },
+    "output": {
+      "price": 0.077488
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.9736038786488311
+    },
+    "output": {
+      "price": 0.491081
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.7049242833145103
+    },
+    "output": {
+      "price": 0.291817
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.5711764485322641
+    },
+    "output": {
+      "price": 0.248215
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.8958971433231462
+    },
+    "output": {
+      "price": 0.366756
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.9382860212358257
+    },
+    "output": {
+      "price": 0.630434
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.11720382061601542
+    },
+    "output": {
+      "price": 0.1075
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.9948802079058865
+    },
+    "output": {
+      "price": 0.421127
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.8591245215216547
+    },
+    "output": {
+      "price": 0.516821
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.9892099153883963
+    },
+    "output": {
+      "price": 0.562721
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.7043367997296535
+    },
+    "output": {
+      "price": 0.397769
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.6586321267010126
+    },
+    "output": {
+      "price": 0.376104
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.7161066787685697
+    },
+    "output": {
+      "price": 0.407699
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.5715632015270966
+    },
+    "output": {
+      "price": 0.322536
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.9998676505210734
+    },
+    "output": {
+      "price": 0.618272
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.7654605357480876
+    },
+    "output": {
+      "price": 0.358281
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.9035745852743139
+    },
+    "output": {
+      "price": 0.513878
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.81943463521466
+    },
+    "output": {
+      "price": 0.444357
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.5786692467516397
+    },
+    "output": {
+      "price": 0.339692
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.9696386827847663
+    },
+    "output": {
+      "price": 0.552178
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.6019033034366996
+    },
+    "output": {
+      "price": 0.251575
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.9289412237787424
+    },
+    "output": {
+      "price": 0.39654
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.4644549006125728
+    },
+    "output": {
+      "price": 0.296526
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.6982277650024777
+    },
+    "output": {
+      "price": 0.389043
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.6647984940777683
+    },
+    "output": {
+      "price": 0.348464
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.47453842961374426
+    },
+    "output": {
+      "price": 0.248036
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.8763514024348822
+    },
+    "output": {
+      "price": 0.409425
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9528633599285615
+    },
+    "output": {
+      "price": 0.387859
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.8315097335951187
+    },
+    "output": {
+      "price": 0.379537
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.9932466634208089
+    },
+    "output": {
+      "price": 0.539969
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.937585698263742
+    },
+    "output": {
+      "price": 0.351185
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.2761121433363932
+    },
+    "output": {
+      "price": 0.179172
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.8625629307997479
+    },
+    "output": {
+      "price": 0.568144
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.9312779127066853
+    },
+    "output": {
+      "price": 0.550211
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.7965738501497892
+    },
+    "output": {
+      "price": 0.374049
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.8105910144586099
+    },
+    "output": {
+      "price": 0.467369
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.6318486442081438
+    },
+    "output": {
+      "price": 0.344806
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.5132786980508297
+    },
+    "output": {
+      "price": 0.240358
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.9272076916068194
+    },
+    "output": {
+      "price": 0.47995
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.5959515753048314
+    },
+    "output": {
+      "price": 0.253724
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.9934045653058414
+    },
+    "output": {
+      "price": 0.577291
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.908027212640393
+    },
+    "output": {
+      "price": 0.616271
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.5746225810623902
+    },
+    "output": {
+      "price": 0.314744
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.9140725266318892
+    },
+    "output": {
+      "price": 0.471669
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.5517594510951872
+    },
+    "output": {
+      "price": 0.213942
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.9122518131319954
+    },
+    "output": {
+      "price": 0.457494
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.7219414934672138
+    },
+    "output": {
+      "price": 0.33685
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.9609602519768876
+    },
+    "output": {
+      "price": 0.591593
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.7324724304706006
+    },
+    "output": {
+      "price": 0.438973
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.977024112570844
+    },
+    "output": {
+      "price": 0.341988
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.8535717266831115
+    },
+    "output": {
+      "price": 0.466616
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.7791313010922841
+    },
+    "output": {
+      "price": 0.45146
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.5346083849518334
+    },
+    "output": {
+      "price": 0.265694
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.4760406708612106
+    },
+    "output": {
+      "price": 0.284483
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9718853564674829
+    },
+    "output": {
+      "price": 0.372882
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.9751350388041193
+    },
+    "output": {
+      "price": 0.428751
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.8270990459545793
+    },
+    "output": {
+      "price": 0.406197
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.8658945936936352
+    },
+    "output": {
+      "price": 0.499613
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.894189246037195
+    },
+    "output": {
+      "price": 0.379556
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.7525294437171482
+    },
+    "output": {
+      "price": 0.368144
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.95529260404478
+    },
+    "output": {
+      "price": 0.490229
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.9074312073241162
+    },
+    "output": {
+      "price": 0.552759
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.8914634456384708
+    },
+    "output": {
+      "price": 0.578126
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.4610132485548587
+    },
+    "output": {
+      "price": 0.245238
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.7013567247816178
+    },
+    "output": {
+      "price": 0.486491
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.8628205314568329
+    },
+    "output": {
+      "price": 0.568552
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.5252464430299028
+    },
+    "output": {
+      "price": 0.24864
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.8173494298464333
+    },
+    "output": {
+      "price": 0.403704
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.9936002792073817
+    },
+    "output": {
+      "price": 0.616793
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.6731179083997785
+    },
+    "output": {
+      "price": 0.404785
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.8689333634214272
+    },
+    "output": {
+      "price": 0.412722
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.9189537926492557
+    },
+    "output": {
+      "price": 0.446065
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.5049107815549965
+    },
+    "output": {
+      "price": 0.312969
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.5797813403248537
+    },
+    "output": {
+      "price": 0.261001
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.6951073406893387
+    },
+    "output": {
+      "price": 0.382607
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.8483513398650524
+    },
+    "output": {
+      "price": 0.451782
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.9952490451153688
+    },
+    "output": {
+      "price": 0.556627
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.403494654935979
+    },
+    "output": {
+      "price": 0.192447
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.9723514575799039
+    },
+    "output": {
+      "price": 0.397534
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.45325346765707386
+    },
+    "output": {
+      "price": 0.291736
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.7734431960003749
+    },
+    "output": {
+      "price": 0.260952
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.9025652160450105
+    },
+    "output": {
+      "price": 0.564403
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.7189779294533913
+    },
+    "output": {
+      "price": 0.395196
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.9763253950148786
+    },
+    "output": {
+      "price": 0.569041
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.2663256248920933
+    },
+    "output": {
+      "price": 0.16154
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.12181059046998532
+    },
+    "output": {
+      "price": 0.045271
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.6769491299898585
+    },
+    "output": {
+      "price": 0.246503
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.6625683867433249
+    },
+    "output": {
+      "price": 0.420466
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.9920083710614128
+    },
+    "output": {
+      "price": 0.610375
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.5546283348938073
+    },
+    "output": {
+      "price": 0.210528
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.8849222573827302
+    },
+    "output": {
+      "price": 0.49069
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.6528776853819318
+    },
+    "output": {
+      "price": 0.218513
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.7448504514387457
+    },
+    "output": {
+      "price": 0.366109
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.9760874088883583
+    },
+    "output": {
+      "price": 0.498629
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.5208433035812151
+    },
+    "output": {
+      "price": 0.227602
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.22629241853080195
+    },
+    "output": {
+      "price": 0.151573
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.6195195104416964
+    },
+    "output": {
+      "price": 0.322773
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.6118059808858228
+    },
+    "output": {
+      "price": 0.287719
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.9656666263128648
+    },
+    "output": {
+      "price": 0.423594
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.9003087769477095
+    },
+    "output": {
+      "price": 0.620151
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.8131862261366231
+    },
+    "output": {
+      "price": 0.329558
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.5720892577332763
+    },
+    "output": {
+      "price": 0.366073
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.3395466870949806
+    },
+    "output": {
+      "price": 0.165772
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.6994504218411921
+    },
+    "output": {
+      "price": 0.462774
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.9918843604087889
+    },
+    "output": {
+      "price": 0.641676
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.9538629031931141
+    },
+    "output": {
+      "price": 0.373643
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.862038676366309
+    },
+    "output": {
+      "price": 0.382919
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.8684859991721136
+    },
+    "output": {
+      "price": 0.457572
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.8035328160122368
+    },
+    "output": {
+      "price": 0.416311
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.7483404990434919
+    },
+    "output": {
+      "price": 0.301365
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.938191246184027
+    },
+    "output": {
+      "price": 0.393307
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.47467103686750955
+    },
+    "output": {
+      "price": 0.217713
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.3241765269618385
+    },
+    "output": {
+      "price": 0.190133
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.5382449405479841
+    },
+    "output": {
+      "price": 0.226944
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.7274080148799507
+    },
+    "output": {
+      "price": 0.49903
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.9708571600888116
+    },
+    "output": {
+      "price": 0.592412
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.29195463472091143
+    },
+    "output": {
+      "price": 0.177474
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.6743143821965938
+    },
+    "output": {
+      "price": 0.457539
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.9953122545333974
+    },
+    "output": {
+      "price": 0.693321
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.460510496979858
+    },
+    "output": {
+      "price": 0.283837
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.9452423623089619
+    },
+    "output": {
+      "price": 0.431944
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.5660723019169969
+    },
+    "output": {
+      "price": 0.327033
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.8446006220539277
+    },
+    "output": {
+      "price": 0.480847
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.9438286915823084
+    },
+    "output": {
+      "price": 0.596173
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.6429416631931917
+    },
+    "output": {
+      "price": 0.427747
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.7753282098351835
+    },
+    "output": {
+      "price": 0.443451
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.8141722358733341
+    },
+    "output": {
+      "price": 0.366505
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.9558239535027013
+    },
+    "output": {
+      "price": 0.526507
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.28329008034525693
+    },
+    "output": {
+      "price": 0.221064
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.2282671781090283
+    },
+    "output": {
+      "price": 0.177273
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.9541209720991908
+    },
+    "output": {
+      "price": 0.597139
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.5562009581232478
+    },
+    "output": {
+      "price": 0.28025
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9921965330239189
+    },
+    "output": {
+      "price": 0.395491
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.5742088271131396
+    },
+    "output": {
+      "price": 0.307849
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.8082032259857576
+    },
+    "output": {
+      "price": 0.42768
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.9633188944888202
+    },
+    "output": {
+      "price": 0.420506
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.7515734340271694
+    },
+    "output": {
+      "price": 0.448364
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.9868823950872097
+    },
+    "output": {
+      "price": 0.478655
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.14,
+      "condition": 0.97461690425051
+    },
+    "output": {
+      "price": 0.449678
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.5552499033240992
+    },
+    "output": {
+      "price": 0.364767
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.6907703279275241
+    },
+    "output": {
+      "price": 0.431524
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.9804722077634872
+    },
+    "output": {
+      "price": 0.531748
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.9194734764783069
+    },
+    "output": {
+      "price": 0.576304
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.9788792276330025
+    },
+    "output": {
+      "price": 0.433576
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.6355672642813286
+    },
+    "output": {
+      "price": 0.363535
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.7089355756854839
+    },
+    "output": {
+      "price": 0.309422
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.8396870179173209
+    },
+    "output": {
+      "price": 0.48938
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.7061783559193432
+    },
+    "output": {
+      "price": 0.487219
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.47914787209354015
+    },
+    "output": {
+      "price": 0.176
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.8713426037892038
+    },
+    "output": {
+      "price": 0.390221
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.9421434784259312
+    },
+    "output": {
+      "price": 0.600528
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.48897314743255194
+    },
+    "output": {
+      "price": 0.271945
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.962973184402768
+    },
+    "output": {
+      "price": 0.374666
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.8252424930676447
+    },
+    "output": {
+      "price": 0.575556
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.9629248318797681
+    },
+    "output": {
+      "price": 0.673672
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.9914394834527018
+    },
+    "output": {
+      "price": 0.432481
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.8454789788605241
+    },
+    "output": {
+      "price": 0.611999
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.9514858613108752
+    },
+    "output": {
+      "price": 0.371832
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.9423630880245768
+    },
+    "output": {
+      "price": 0.521133
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.8854969169089901
+    },
+    "output": {
+      "price": 0.483443
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.7198660074318703
+    },
+    "output": {
+      "price": 0.498699
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.8803544106671256
+    },
+    "output": {
+      "price": 0.491394
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.9936593831160492
+    },
+    "output": {
+      "price": 0.495284
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.6118828452987765
+    },
+    "output": {
+      "price": 0.334919
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.8625992825526543
+    },
+    "output": {
+      "price": 0.317851
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.756457254875966
+    },
+    "output": {
+      "price": 0.2945
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.8769842042711653
+    },
+    "output": {
+      "price": 0.443503
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.3602767183222587
+    },
+    "output": {
+      "price": 0.196118
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.8044504643821926
+    },
+    "output": {
+      "price": 0.42807
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.9548473931114896
+    },
+    "output": {
+      "price": 0.64679
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.596683314779489
+    },
+    "output": {
+      "price": 0.30455
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.8756511880702884
+    },
+    "output": {
+      "price": 0.553225
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.7471270607860994
+    },
+    "output": {
+      "price": 0.394028
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.6783398962708563
+    },
+    "output": {
+      "price": 0.474165
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.7848918107825151
+    },
+    "output": {
+      "price": 0.36635
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.37290201433869274
+    },
+    "output": {
+      "price": 0.253526
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.2583914707117022
+    },
+    "output": {
+      "price": 0.147789
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.97674784451211
+    },
+    "output": {
+      "price": 0.475528
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.8892059858706152
+    },
+    "output": {
+      "price": 0.535165
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.5664249971570312
+    },
+    "output": {
+      "price": 0.3791
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.14,
+      "condition": 0.8925955284999207
+    },
+    "output": {
+      "price": 0.387535
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.9077915982271073
+    },
+    "output": {
+      "price": 0.516732
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.9935642452783364
+    },
+    "output": {
+      "price": 0.342624
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.6127985386536396
+    },
+    "output": {
+      "price": 0.35168
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.6003720986317423
+    },
+    "output": {
+      "price": 0.382205
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.9442200968816638
+    },
+    "output": {
+      "price": 0.466776
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.4028659693766641
+    },
+    "output": {
+      "price": 0.272544
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.9311922286449428
+    },
+    "output": {
+      "price": 0.380919
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.7166804416953412
+    },
+    "output": {
+      "price": 0.309218
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.8986847229260524
+    },
+    "output": {
+      "price": 0.440087
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.7886985475644694
+    },
+    "output": {
+      "price": 0.484906
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.8441035826142184
+    },
+    "output": {
+      "price": 0.533268
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.9984684806183175
+    },
+    "output": {
+      "price": 0.510366
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.6090365795863997
+    },
+    "output": {
+      "price": 0.328686
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.7282741559335193
+    },
+    "output": {
+      "price": 0.414692
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.9327766127908064
+    },
+    "output": {
+      "price": 0.545767
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.8619902647108298
+    },
+    "output": {
+      "price": 0.316477
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.13096382117759464
+    },
+    "output": {
+      "price": 0.113523
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.5515216162237729
+    },
+    "output": {
+      "price": 0.244966
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.25738729022026086
+    },
+    "output": {
+      "price": 0.179433
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.42167961175390745
+    },
+    "output": {
+      "price": 0.218266
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.7512351322061273
+    },
+    "output": {
+      "price": 0.406014
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.9768974629716752
+    },
+    "output": {
+      "price": 0.578239
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.975350274489245
+    },
+    "output": {
+      "price": 0.477966
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.8723724914727515
+    },
+    "output": {
+      "price": 0.46651
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.3542198979559894
+    },
+    "output": {
+      "price": 0.15638
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.965978975819354
+    },
+    "output": {
+      "price": 0.463109
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.8785491877945044
+    },
+    "output": {
+      "price": 0.51834
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.8108234630735004
+    },
+    "output": {
+      "price": 0.412676
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.5906523720967093
+    },
+    "output": {
+      "price": 0.245894
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.9298743540285456
+    },
+    "output": {
+      "price": 0.380389
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.9447002667939297
+    },
+    "output": {
+      "price": 0.424963
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.9651671222014717
+    },
+    "output": {
+      "price": 0.599885
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.9008613064854565
+    },
+    "output": {
+      "price": 0.48212
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.69133923024351
+    },
+    "output": {
+      "price": 0.306013
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.48172816775067073
+    },
+    "output": {
+      "price": 0.286352
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.804647473192685
+    },
+    "output": {
+      "price": 0.483453
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.4558295959524322
+    },
+    "output": {
+      "price": 0.235513
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.8703717467075698
+    },
+    "output": {
+      "price": 0.327184
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.9971429493525953
+    },
+    "output": {
+      "price": 0.645486
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.9948504402095653
+    },
+    "output": {
+      "price": 0.456731
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.5169983293342663
+    },
+    "output": {
+      "price": 0.279192
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.2696315220098424
+    },
+    "output": {
+      "price": 0.11023
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.689659363967396
+    },
+    "output": {
+      "price": 0.364197
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.9855353192557099
+    },
+    "output": {
+      "price": 0.598226
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.5598106409548211
+    },
+    "output": {
+      "price": 0.203694
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.3967358322309761
+    },
+    "output": {
+      "price": 0.1841
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.8645213560288464
+    },
+    "output": {
+      "price": 0.318051
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.5567748886450101
+    },
+    "output": {
+      "price": 0.225231
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.9402868655380482
+    },
+    "output": {
+      "price": 0.540877
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.6459595203731208
+    },
+    "output": {
+      "price": 0.292722
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.9632001539462128
+    },
+    "output": {
+      "price": 0.513296
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9381070072362266
+    },
+    "output": {
+      "price": 0.389822
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.7900229291471965
+    },
+    "output": {
+      "price": 0.584631
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.5618382837344413
+    },
+    "output": {
+      "price": 0.251282
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.7985576695840143
+    },
+    "output": {
+      "price": 0.337536
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.8503868913243575
+    },
+    "output": {
+      "price": 0.44275
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.8476646698791465
+    },
+    "output": {
+      "price": 0.402599
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.91318685786656
+    },
+    "output": {
+      "price": 0.359988
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.5403309637029126
+    },
+    "output": {
+      "price": 0.355481
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.9733744055408186
+    },
+    "output": {
+      "price": 0.539051
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.9235854303349621
+    },
+    "output": {
+      "price": 0.473537
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.4415615403348231
+    },
+    "output": {
+      "price": 0.215475
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.806683168444686
+    },
+    "output": {
+      "price": 0.278752
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.8933318866631504
+    },
+    "output": {
+      "price": 0.554868
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.9957104156272787
+    },
+    "output": {
+      "price": 0.588182
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.5480725043149253
+    },
+    "output": {
+      "price": 0.281032
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.16,
+      "condition": 0.9141074331945079
+    },
+    "output": {
+      "price": 0.421804
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.8069054224854701
+    },
+    "output": {
+      "price": 0.315122
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.33790405109424604
+    },
+    "output": {
+      "price": 0.154431
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.9484032048021402
+    },
+    "output": {
+      "price": 0.350957
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.5637531505343616
+    },
+    "output": {
+      "price": 0.217957
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.9507566358277512
+    },
+    "output": {
+      "price": 0.465487
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.9071131382527515
+    },
+    "output": {
+      "price": 0.481185
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.9858698315527987
+    },
+    "output": {
+      "price": 0.523087
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.8055812544333292
+    },
+    "output": {
+      "price": 0.46679
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.3775606699463371
+    },
+    "output": {
+      "price": 0.207063
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.4464999513747201
+    },
+    "output": {
+      "price": 0.186546
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.9850466527815751
+    },
+    "output": {
+      "price": 0.410709
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.48981696342333825
+    },
+    "output": {
+      "price": 0.25187
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.6580583502700217
+    },
+    "output": {
+      "price": 0.305093
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.6277781324884275
+    },
+    "output": {
+      "price": 0.458163
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.9809899687863087
+    },
+    "output": {
+      "price": 0.589628
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9218333225555144
+    },
+    "output": {
+      "price": 0.384347
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.42104524630741
+    },
+    "output": {
+      "price": 0.261934
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.9511779939053826
+    },
+    "output": {
+      "price": 0.422348
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.9144455938667628
+    },
+    "output": {
+      "price": 0.355814
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.6674350848329305
+    },
+    "output": {
+      "price": 0.281423
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.45541136296411966
+    },
+    "output": {
+      "price": 0.216903
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.9581622400215427
+    },
+    "output": {
+      "price": 0.490404
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.36655416353199033
+    },
+    "output": {
+      "price": 0.210835
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.9056264239197996
+    },
+    "output": {
+      "price": 0.426649
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.895031106835785
+    },
+    "output": {
+      "price": 0.36132
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.5752704318530752
+    },
+    "output": {
+      "price": 0.34343
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.9006446472362469
+    },
+    "output": {
+      "price": 0.382122
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.4347975790611617
+    },
+    "output": {
+      "price": 0.331459
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.9972989490965789
+    },
+    "output": {
+      "price": 0.581673
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.7168431543299407
+    },
+    "output": {
+      "price": 0.295156
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.8827452021286523
+    },
+    "output": {
+      "price": 0.551774
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.9731190634637833
+    },
+    "output": {
+      "price": 0.465407
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.9946909846351898
+    },
+    "output": {
+      "price": 0.691128
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.29624052768682074
+    },
+    "output": {
+      "price": 0.254102
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.9013427847467406
+    },
+    "output": {
+      "price": 0.516502
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.20901302347880724
+    },
+    "output": {
+      "price": 0.143488
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.10739665959142253
+    },
+    "output": {
+      "price": 0.113924
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.7447718819769338
+    },
+    "output": {
+      "price": 0.47527
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.9880739050773674
+    },
+    "output": {
+      "price": 0.517615
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.45688745824715005
+    },
+    "output": {
+      "price": 0.277784
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.8064421892981645
+    },
+    "output": {
+      "price": 0.357543
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.8953668972155042
+    },
+    "output": {
+      "price": 0.45252
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.9955837326226705
+    },
+    "output": {
+      "price": 0.517932
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.5665278672172105
+    },
+    "output": {
+      "price": 0.37968
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.28834731606765884
+    },
+    "output": {
+      "price": 0.145132
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.8479423562626427
+    },
+    "output": {
+      "price": 0.351439
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.8898192787251157
+    },
+    "output": {
+      "price": 0.56489
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.6301738462080071
+    },
+    "output": {
+      "price": 0.255463
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.7346344287759701
+    },
+    "output": {
+      "price": 0.39842
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.7780014241332168
+    },
+    "output": {
+      "price": 0.393746
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.8609092423831132
+    },
+    "output": {
+      "price": 0.449818
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.9504535599649376
+    },
+    "output": {
+      "price": 0.42324
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.1779710448832701
+    },
+    "output": {
+      "price": 0.134891
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.4345084638612534
+    },
+    "output": {
+      "price": 0.203828
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.8059453774805723
+    },
+    "output": {
+      "price": 0.353322
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.7438000008053156
+    },
+    "output": {
+      "price": 0.345116
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.9064588677743738
+    },
+    "output": {
+      "price": 0.598376
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.7371893789403787
+    },
+    "output": {
+      "price": 0.358123
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.8836766745546656
+    },
+    "output": {
+      "price": 0.47994
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.6366128912582389
+    },
+    "output": {
+      "price": 0.26793
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.8223984386076985
+    },
+    "output": {
+      "price": 0.517022
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.784237710838466
+    },
+    "output": {
+      "price": 0.518396
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.8097955850995857
+    },
+    "output": {
+      "price": 0.520843
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.77673967797758
+    },
+    "output": {
+      "price": 0.390448
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.9844211072005514
+    },
+    "output": {
+      "price": 0.511468
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.5692341179631734
+    },
+    "output": {
+      "price": 0.271285
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.8250840269010422
+    },
+    "output": {
+      "price": 0.502789
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.8334856172929112
+    },
+    "output": {
+      "price": 0.575183
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.9552181835118234
+    },
+    "output": {
+      "price": 0.431821
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.9966701220690193
+    },
+    "output": {
+      "price": 0.601252
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.9819338120713811
+    },
+    "output": {
+      "price": 0.441009
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.9621545449713552
+    },
+    "output": {
+      "price": 0.536625
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.9660548276700797
+    },
+    "output": {
+      "price": 0.567318
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.35535197711150157
+    },
+    "output": {
+      "price": 0.225754
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.9491369469247277
+    },
+    "output": {
+      "price": 0.454833
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.8740022465407313
+    },
+    "output": {
+      "price": 0.421024
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.9959169526858368
+    },
+    "output": {
+      "price": 0.438566
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9190084444797929
+    },
+    "output": {
+      "price": 0.380666
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.8034439423777234
+    },
+    "output": {
+      "price": 0.409235
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.7170418824313953
+    },
+    "output": {
+      "price": 0.38095
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.8654109751855906
+    },
+    "output": {
+      "price": 0.511387
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.4341631901478723
+    },
+    "output": {
+      "price": 0.215155
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.6170564950237818
+    },
+    "output": {
+      "price": 0.302509
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.825618386494064
+    },
+    "output": {
+      "price": 0.529077
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.9011046963677729
+    },
+    "output": {
+      "price": 0.485296
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.8541818378963637
+    },
+    "output": {
+      "price": 0.363566
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.6470385646983767
+    },
+    "output": {
+      "price": 0.434682
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.5854180956693891
+    },
+    "output": {
+      "price": 0.275447
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.9179146423849516
+    },
+    "output": {
+      "price": 0.486395
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.5955846206163921
+    },
+    "output": {
+      "price": 0.265504
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.9475920582312368
+    },
+    "output": {
+      "price": 0.536575
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.5073182948009322
+    },
+    "output": {
+      "price": 0.276883
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.679664391236056
+    },
+    "output": {
+      "price": 0.358971
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.44175558945202553
+    },
+    "output": {
+      "price": 0.303424
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.7585956206075563
+    },
+    "output": {
+      "price": 0.377024
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.9264563529670266
+    },
+    "output": {
+      "price": 0.478237
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.8250842020338661
+    },
+    "output": {
+      "price": 0.420062
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.965855662931012
+    },
+    "output": {
+      "price": 0.361162
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.8757974457592983
+    },
+    "output": {
+      "price": 0.481942
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.8385972726794019
+    },
+    "output": {
+      "price": 0.509261
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.6432427642216747
+    },
+    "output": {
+      "price": 0.276998
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.2819244765473844
+    },
+    "output": {
+      "price": 0.118325
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9979700380852522
+    },
+    "output": {
+      "price": 0.374361
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.6686721224499297
+    },
+    "output": {
+      "price": 0.300351
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.938889581719893
+    },
+    "output": {
+      "price": 0.506519
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.772674197494338
+    },
+    "output": {
+      "price": 0.27439
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9611222522882901
+    },
+    "output": {
+      "price": 0.374793
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.4943979047794388
+    },
+    "output": {
+      "price": 0.280633
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.7234839660547354
+    },
+    "output": {
+      "price": 0.337746
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.5173060947486896
+    },
+    "output": {
+      "price": 0.220997
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.8573206677740371
+    },
+    "output": {
+      "price": 0.333585
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.8265483211373902
+    },
+    "output": {
+      "price": 0.542377
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.8923192711897618
+    },
+    "output": {
+      "price": 0.37942
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.8340371267762288
+    },
+    "output": {
+      "price": 0.381192
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.7025341874572633
+    },
+    "output": {
+      "price": 0.349778
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9192701922672716
+    },
+    "output": {
+      "price": 0.349673
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.7961332011384394
+    },
+    "output": {
+      "price": 0.283057
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.896561502683584
+    },
+    "output": {
+      "price": 0.559545
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.9900028967800263
+    },
+    "output": {
+      "price": 0.552887
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.7337955951463307
+    },
+    "output": {
+      "price": 0.269852
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.994915179171648
+    },
+    "output": {
+      "price": 0.533757
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.49569587537783555
+    },
+    "output": {
+      "price": 0.290165
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.7107916843119363
+    },
+    "output": {
+      "price": 0.325313
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.666065578879659
+    },
+    "output": {
+      "price": 0.448965
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.4671425348104944
+    },
+    "output": {
+      "price": 0.228951
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.5311711612191972
+    },
+    "output": {
+      "price": 0.318168
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.9630765671156555
+    },
+    "output": {
+      "price": 0.527074
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.8863078810900689
+    },
+    "output": {
+      "price": 0.423779
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.9835751148873975
+    },
+    "output": {
+      "price": 0.641398
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.9958502728734049
+    },
+    "output": {
+      "price": 0.714247
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.5473507369663859
+    },
+    "output": {
+      "price": 0.364746
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.991207810787473
+    },
+    "output": {
+      "price": 0.634844
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.9998204447180883
+    },
+    "output": {
+      "price": 0.465284
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.9428911500328281
+    },
+    "output": {
+      "price": 0.543309
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.9440620240197055
+    },
+    "output": {
+      "price": 0.644967
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.9459008685544846
+    },
+    "output": {
+      "price": 0.34992
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.6071178026509224
+    },
+    "output": {
+      "price": 0.304117
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.3579789860472946
+    },
+    "output": {
+      "price": 0.219654
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.5488786286814129
+    },
+    "output": {
+      "price": 0.334711
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.9575391931069261
+    },
+    "output": {
+      "price": 0.391876
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.22,
+      "condition": 0.5541226211837507
+    },
+    "output": {
+      "price": 0.392393
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.95650824303384
+    },
+    "output": {
+      "price": 0.41089
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.2561243860193526
+    },
+    "output": {
+      "price": 0.140879
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.837167591136782
+    },
+    "output": {
+      "price": 0.538806
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.8512016661005302
+    },
+    "output": {
+      "price": 0.485468
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.977785728098584
+    },
+    "output": {
+      "price": 0.480012
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.6936816692072282
+    },
+    "output": {
+      "price": 0.319193
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.8155797396181339
+    },
+    "output": {
+      "price": 0.569601
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.9129924641657499
+    },
+    "output": {
+      "price": 0.402548
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.5438779831628441
+    },
+    "output": {
+      "price": 0.253696
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.8839376263841519
+    },
+    "output": {
+      "price": 0.539691
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.7525686827685572
+    },
+    "output": {
+      "price": 0.439268
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.7860420064988987
+    },
+    "output": {
+      "price": 0.497983
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.9824556416907569
+    },
+    "output": {
+      "price": 0.419121
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.7180902455173116
+    },
+    "output": {
+      "price": 0.322827
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.9825069678942545
+    },
+    "output": {
+      "price": 0.560876
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.6794352325323918
+    },
+    "output": {
+      "price": 0.279153
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.9732893137736138
+    },
+    "output": {
+      "price": 0.483596
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.4620547370014835
+    },
+    "output": {
+      "price": 0.244428
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.3924362047138177
+    },
+    "output": {
+      "price": 0.251979
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.8748683280001849
+    },
+    "output": {
+      "price": 0.456061
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9248010328568932
+    },
+    "output": {
+      "price": 0.379516
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.7908581641872728
+    },
+    "output": {
+      "price": 0.54502
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.5944658642955695
+    },
+    "output": {
+      "price": 0.382374
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.5453136433013988
+    },
+    "output": {
+      "price": 0.269741
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.6573002292775845
+    },
+    "output": {
+      "price": 0.373988
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.18,
+      "condition": 0.5156065393061936
+    },
+    "output": {
+      "price": 0.351977
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.6416457726019034
+    },
+    "output": {
+      "price": 0.335075
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.9913835729921836
+    },
+    "output": {
+      "price": 0.417151
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.2,
+      "condition": 0.5133233763084541
+    },
+    "output": {
+      "price": 0.28479
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.9033285505632177
+    },
+    "output": {
+      "price": 0.348266
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.9954700153360305
+    },
+    "output": {
+      "price": 0.569397
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.8961381863930586
+    },
+    "output": {
+      "price": 0.471496
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.7686442702085423
+    },
+    "output": {
+      "price": 0.482254
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.9108101893436451
+    },
+    "output": {
+      "price": 0.344465
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.9971487887932564
+    },
+    "output": {
+      "price": 0.566029
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.9733108279650676
+    },
+    "output": {
+      "price": 0.588965
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.19520209850984327
+    },
+    "output": {
+      "price": 0.080104
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.5717426827955641
+    },
+    "output": {
+      "price": 0.236144
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.7401544038142716
+    },
+    "output": {
+      "price": 0.496619
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.9247327817609219
+    },
+    "output": {
+      "price": 0.416076
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.9665337631355101
+    },
+    "output": {
+      "price": 0.64222
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.49997169689493703
+    },
+    "output": {
+      "price": 0.235484
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.6363015862228185
+    },
+    "output": {
+      "price": 0.307476
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.8136458112845947
+    },
+    "output": {
+      "price": 0.562049
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.9945996560318958
+    },
+    "output": {
+      "price": 0.415083
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.9975216741624598
+    },
+    "output": {
+      "price": 0.660742
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.9892592896179409
+    },
+    "output": {
+      "price": 0.409806
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.7580129612398853
+    },
+    "output": {
+      "price": 0.307168
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.38771453888686247
+    },
+    "output": {
+      "price": 0.24337
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.7336050398008628
+    },
+    "output": {
+      "price": 0.437516
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.8821757253833651
+    },
+    "output": {
+      "price": 0.466318
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.9803068483552355
+    },
+    "output": {
+      "price": 0.708852
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.9409003470839896
+    },
+    "output": {
+      "price": 0.476562
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.6959833207027172
+    },
+    "output": {
+      "price": 0.42247
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.7233516802014774
+    },
+    "output": {
+      "price": 0.317386
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.9978075775899165
+    },
+    "output": {
+      "price": 0.497819
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.9670486103270783
+    },
+    "output": {
+      "price": 0.509078
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.8545242163078016
+    },
+    "output": {
+      "price": 0.520239
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.9985369693309459
+    },
+    "output": {
+      "price": 0.474593
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.49072670154186515
+    },
+    "output": {
+      "price": 0.228749
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.24,
+      "condition": 0.24411574604619157
+    },
+    "output": {
+      "price": 0.146652
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.23,
+      "condition": 0.8960303516700854
+    },
+    "output": {
+      "price": 0.484665
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.5886170955437882
+    },
+    "output": {
+      "price": 0.271246
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.7495698851663846
+    },
+    "output": {
+      "price": 0.504926
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.8811168435064087
+    },
+    "output": {
+      "price": 0.369553
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.6739712468204327
+    },
+    "output": {
+      "price": 0.377759
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.8761475362145041
+    },
+    "output": {
+      "price": 0.367679
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.8755589679948717
+    },
+    "output": {
+      "price": 0.507252
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.5052582991538492
+    },
+    "output": {
+      "price": 0.298882
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.6083122032967683
+    },
+    "output": {
+      "price": 0.391618
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.24,
+      "condition": 0.979465881295256
+    },
+    "output": {
+      "price": 0.696402
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.8866961234501041
+    },
+    "output": {
+      "price": 0.415817
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.7266543222245236
+    },
+    "output": {
+      "price": 0.364123
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.804718996200467
+    },
+    "output": {
+      "price": 0.479412
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.19380024143795882
+    },
+    "output": {
+      "price": 0.131615
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.8283601726640514
+    },
+    "output": {
+      "price": 0.318502
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.9878110015550998
+    },
+    "output": {
+      "price": 0.426603
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.8672680950096558
+    },
+    "output": {
+      "price": 0.631748
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.5953551817970095
+    },
+    "output": {
+      "price": 0.382201
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.1,
+      "condition": 0.8683016790540906
+    },
+    "output": {
+      "price": 0.353619
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.6435845216624313
+    },
+    "output": {
+      "price": 0.288627
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.45457682260110555
+    },
+    "output": {
+      "price": 0.213831
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.9609244757423352
+    },
+    "output": {
+      "price": 0.557458
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.7431745874543813
+    },
+    "output": {
+      "price": 0.357585
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.9154161032229776
+    },
+    "output": {
+      "price": 0.460627
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.41507972092700596
+    },
+    "output": {
+      "price": 0.155885
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.12645368939617452
+    },
+    "output": {
+      "price": 0.078284
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.9443182284192211
+    },
+    "output": {
+      "price": 0.675065
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.8579600485064416
+    },
+    "output": {
+      "price": 0.500424
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.15,
+      "condition": 0.684003719926342
+    },
+    "output": {
+      "price": 0.356228
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.21,
+      "condition": 0.916802330979532
+    },
+    "output": {
+      "price": 0.481228
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.8351666994680677
+    },
+    "output": {
+      "price": 0.557379
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.6499509827858819
+    },
+    "output": {
+      "price": 0.26427
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.19,
+      "condition": 0.17444485698227663
+    },
+    "output": {
+      "price": 0.112176
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.9996250052920173
+    },
+    "output": {
+      "price": 0.410294
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.39940211418433846
+    },
+    "output": {
+      "price": 0.181184
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.9214911188509788
+    },
+    "output": {
+      "price": 0.51311
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.16,
+      "condition": 0.6595897540374078
+    },
+    "output": {
+      "price": 0.361356
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.7480905888858385
+    },
+    "output": {
+      "price": 0.385843
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.1,
+      "condition": 0.7209293280811568
+    },
+    "output": {
+      "price": 0.255374
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.14,
+      "condition": 0.7424413259576093
+    },
+    "output": {
+      "price": 0.358567
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.12,
+      "condition": 0.8796184997189349
+    },
+    "output": {
+      "price": 0.418364
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.8383702799963355
+    },
+    "output": {
+      "price": 0.313973
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.9569743698597413
+    },
+    "output": {
+      "price": 0.497595
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.23,
+      "condition": 0.8545047593595452
+    },
+    "output": {
+      "price": 0.606295
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.3724414852316136
+    },
+    "output": {
+      "price": 0.202169
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.7361185025150994
+    },
+    "output": {
+      "price": 0.343313
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.8060248562111266
+    },
+    "output": {
+      "price": 0.460699
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.7941484064289972
+    },
+    "output": {
+      "price": 0.532634
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9296645271807116
+    },
+    "output": {
+      "price": 0.388278
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.9028936850171304
+    },
+    "output": {
+      "price": 0.471836
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.487716862015416
+    },
+    "output": {
+      "price": 0.250433
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.09206257930368078
+    },
+    "output": {
+      "price": 0.080665
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.9191696092868785
+    },
+    "output": {
+      "price": 0.504779
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.9053358753875118
+    },
+    "output": {
+      "price": 0.433605
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.19,
+      "condition": 0.47920272692496035
+    },
+    "output": {
+      "price": 0.217974
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.6395723675605787
+    },
+    "output": {
+      "price": 0.396841
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.14,
+      "condition": 0.7177692829669332
+    },
+    "output": {
+      "price": 0.366513
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.7028606572495875
+    },
+    "output": {
+      "price": 0.402382
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.9184817887770089
+    },
+    "output": {
+      "price": 0.403393
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.18,
+      "condition": 0.98214636919034
+    },
+    "output": {
+      "price": 0.423841
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.17,
+      "condition": 0.21217999738301063
+    },
+    "output": {
+      "price": 0.160862
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.17,
+      "condition": 0.8023896372253295
+    },
+    "output": {
+      "price": 0.371151
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.8398399211074312
+    },
+    "output": {
+      "price": 0.380398
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.93319777081838
+    },
+    "output": {
+      "price": 0.45553
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.17,
+      "condition": 0.9075003418800257
+    },
+    "output": {
+      "price": 0.369269
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.6687744458126351
+    },
+    "output": {
+      "price": 0.319384
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.17,
+      "condition": 0.749108167496205
+    },
+    "output": {
+      "price": 0.472522
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.6213823429676077
+    },
+    "output": {
+      "price": 0.244667
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.21,
+      "condition": 0.6347114320243407
+    },
+    "output": {
+      "price": 0.313488
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.924267722910311
+    },
+    "output": {
+      "price": 0.537428
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.9974216614865945
+    },
+    "output": {
+      "price": 0.430504
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.12,
+      "condition": 0.9748575098774163
+    },
+    "output": {
+      "price": 0.342589
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.18,
+      "condition": 0.7749287990339581
+    },
+    "output": {
+      "price": 0.438819
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.19,
+      "condition": 0.8958988519200332
+    },
+    "output": {
+      "price": 0.559591
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.14,
+      "condition": 0.4967301877142065
+    },
+    "output": {
+      "price": 0.294065
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.23,
+      "condition": 0.4414790171408606
+    },
+    "output": {
+      "price": 0.233222
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.9891068424903904
+    },
+    "output": {
+      "price": 0.649144
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.13,
+      "condition": 0.9774790320240226
+    },
+    "output": {
+      "price": 0.359638
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.6052416885819757
+    },
+    "output": {
+      "price": 0.249753
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.21,
+      "condition": 0.2668709517993232
+    },
+    "output": {
+      "price": 0.194462
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.9087067602343615
+    },
+    "output": {
+      "price": 0.520914
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.8911788872931209
+    },
+    "output": {
+      "price": 0.431223
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.9782383582307377
+    },
+    "output": {
+      "price": 0.512067
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.2,
+      "condition": 0.422589166285937
+    },
+    "output": {
+      "price": 0.316472
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.19,
+      "condition": 0.7782430688637528
+    },
+    "output": {
+      "price": 0.417017
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.15,
+      "condition": 0.9348461445995233
+    },
+    "output": {
+      "price": 0.451601
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.1,
+      "condition": 0.13991335932441495
+    },
+    "output": {
+      "price": 0.107176
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.14,
+      "condition": 0.9188964203881882
+    },
+    "output": {
+      "price": 0.427353
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.6608707117397652
+    },
+    "output": {
+      "price": 0.338805
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.7124655198893899
+    },
+    "output": {
+      "price": 0.294497
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.9918293617893393
+    },
+    "output": {
+      "price": 0.39393
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.23,
+      "condition": 0.9634322135389545
+    },
+    "output": {
+      "price": 0.610976
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.16,
+      "condition": 0.5905191209347515
+    },
+    "output": {
+      "price": 0.237576
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.8706874951962017
+    },
+    "output": {
+      "price": 0.320209
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.24,
+      "condition": 0.6847718886253242
+    },
+    "output": {
+      "price": 0.383174
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.9571892758097982
+    },
+    "output": {
+      "price": 0.49626
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.9524585492393842
+    },
+    "output": {
+      "price": 0.511135
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.16,
+      "condition": 0.8008598961636736
+    },
+    "output": {
+      "price": 0.482343
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.13,
+      "condition": 0.633055982749011
+    },
+    "output": {
+      "price": 0.298754
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.630364361685215
+    },
+    "output": {
+      "price": 0.350061
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.8771926073798971
+    },
+    "output": {
+      "price": 0.476181
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.13,
+      "condition": 0.6517624567790355
+    },
+    "output": {
+      "price": 0.386427
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.1,
+      "condition": 0.4475620339607971
+    },
+    "output": {
+      "price": 0.26181
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.2,
+      "condition": 0.948501070703714
+    },
+    "output": {
+      "price": 0.449923
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.13,
+      "condition": 0.9549178939440053
+    },
+    "output": {
+      "price": 0.477098
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.15,
+      "condition": 0.23746365774771117
+    },
+    "output": {
+      "price": 0.161008
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.22,
+      "condition": 0.7572580539738903
+    },
+    "output": {
+      "price": 0.407012
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.22,
+      "condition": 0.7972863759843132
+    },
+    "output": {
+      "price": 0.478777
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.18,
+      "condition": 0.841464512707991
+    },
+    "output": {
+      "price": 0.412745
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.2,
+      "condition": 0.8981424885379394
+    },
+    "output": {
+      "price": 0.508664
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.14,
+      "condition": 0.458621687937832
+    },
+    "output": {
+      "price": 0.202228
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.15,
+      "condition": 0.846796431066369
+    },
+    "output": {
+      "price": 0.348855
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.12,
+      "condition": 0.9948699116045526
+    },
+    "output": {
+      "price": 0.535072
+    }
+  },
+  {
+    "input": {
+      "model": 0.9,
+      "year": 0.21,
+      "condition": 0.9673289625700282
+    },
+    "output": {
+      "price": 0.638577
+    }
+  },
+  {
+    "input": {
+      "model": 0.7,
+      "year": 0.12,
+      "condition": 0.36054831105601104
+    },
+    "output": {
+      "price": 0.176483
+    }
+  },
+  {
+    "input": {
+      "model": 0.8,
+      "year": 0.24,
+      "condition": 0.6577031727387183
+    },
+    "output": {
+      "price": 0.449443
+    }
+  },
+  {
+    "input": {
+      "model": 0.6,
+      "year": 0.22,
+      "condition": 0.7612637782642855
+    },
+    "output": {
+      "price": 0.374493
     }
   }
 ]
