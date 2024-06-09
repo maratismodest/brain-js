@@ -10,8 +10,7 @@ const config = {
 };
 
 // create a simple feed forward neural network with backpropagation
-const net = new brain.NeuralNetwork(config);
-net.train(data)
+
 
 for (let i = 0; i < equipments.length; i++) {
     const prices = []
@@ -26,7 +25,10 @@ for (let i = 0; i < equipments.length; i++) {
         mileage: 0.094, // 94 000 miles
     }
     for (let i = 0; i < 10; i++) {
+        const net = new brain.NeuralNetwork(config);
+        net.train(data)
         const output = net.run(car);
+        // console.log(output.price)
         prices.push(output.price)
     }
 
